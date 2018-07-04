@@ -1,2 +1,3 @@
-sdfsdfksdfl;
-dfl;
+int main()
+{
+}
